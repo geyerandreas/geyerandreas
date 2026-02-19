@@ -14,7 +14,8 @@ I'm passionate about software development and always eager to learn new technolo
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt&logoColor=fff&style=for-the-badge)
-![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge)
+![Vue](https://img.shields.io/badge/Nuxt-00DC82?logo=vue&logoColor=fff&style=for-the-badge)
+
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
